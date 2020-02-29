@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f94ba13-8e45-4657-87a8-1433f0ff7bc3" name="Default Changelist" comment="" />
+    <list default="true" id="5f94ba13-8e45-4657-87a8-1433f0ff7bc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +45,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="D:\MyOrderVue\sell\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="ts.external.directory.path" value="E:\WebStorm\WebStorm 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
@@ -111,7 +113,7 @@
       <workItem from="1582769731734" duration="4222000" />
       <workItem from="1582884172642" duration="6770000" />
       <workItem from="1582937063806" duration="3622000" />
-      <workItem from="1582948205072" duration="3422000" />
+      <workItem from="1582948205072" duration="3777000" />
     </task>
     <task id="LOCAL-00001" summary="myorder vue前端">
       <created>1582951790425</created>
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582951790425</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="myorder vue前端">
+      <created>1582952719492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582952719492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,22 +140,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="myorder vue前端" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1582951344566">
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1582952716361">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1582951344566" />
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1582952716361" />
     <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1582948030942">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1582948030942" />
-    <state x="186" y="14" key="SettingsEditor" timestamp="1582948130461">
+    <state x="186" y="14" key="SettingsEditor" timestamp="1582952792396">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1582948130461" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1582952648648">
+    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1582952792396" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1582952755411">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1582952648648" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1582952755411" />
     <state x="383" y="171" key="git4idea.merge.GitPullDialog" timestamp="1582952622850">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
